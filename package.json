@@ -4,6 +4,7 @@
   "description": "Este proyecto es un script de Node.js que genera automáticamente archivos de código repetitivo para un servicio y controlador en una aplicación NestJS. El objetivo principal es reducir la duplicación de código al generar automáticamente los archivos necesarios con base en las plantillas predefinidas.",
   "main": "index.mjs",
   "scripts": {
+    "create:files": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["CreadorController", "NestJs", "CreadorService", "CRUD"],
