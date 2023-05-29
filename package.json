@@ -1,0 +1,20 @@
+{
+  "name": "creador-archivos",
+  "version": "1.0.0",
+  "description": "Este proyecto es un script de Node.js que genera automáticamente archivos de código repetitivo para un servicio y controlador en una aplicación NestJS. El objetivo principal es reducir la duplicación de código al generar automáticamente los archivos necesarios con base en las plantillas predefinidas.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["CreadorController", "NestJs", "CreadorService", "CRUD"],
+  "author": "Gersomsim <gersomhernandez@me.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gersomsim/creador-archivos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gersomsim/creador-archivos/issues"
+  },
+  "homepage": "https://github.com/Gersomsim/creador-archivos#readme"
+}
